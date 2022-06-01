@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Abhishekrai007
 - 👀 I’m interested in to code,read and football.
 - 🌱 I’m currently learning python and web development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Contact Me: abhishekrai1574@gmail.com
+
 
 <!---
 Abhishekrai007/Abhishekrai007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
