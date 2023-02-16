@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhishekrai007
-- 👀 I’m interested in to code,read and football.
+- 👀 I’m interested in to code and football.
 - 🌱 I’m currently learning python and web development.
 - 📫 Contact Me: abhishekrai1574@gmail.com
 
