@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhishekrai007
-- 👀 I’m interested in to code and football.
-- 🌱 I’m currently learning python and web development.
+- 👀 I’m interested to code and football.
+- 🌱 I’m currently learning Javascript and building cool stuffs with it's framework React Js.
 - 📫 Contact Me: abhishekrai1574@gmail.com
 
 
