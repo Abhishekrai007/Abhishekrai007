@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhishekrai007
-- 👀 I’m interested to code and football.
+- 👀 I’m interested in programming and developing complex web apps.
 - 🌱 I’m currently learning Javascript and building cool stuffs with it's framework React Js.
 - 📫 Contact Me: abhishekrai1574@gmail.com
 
